@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tik2</string>
+    <string name="heading">welcome to tic-tak-toe</string>
+    <string name="grid">our main grid</string>
+</resources>
